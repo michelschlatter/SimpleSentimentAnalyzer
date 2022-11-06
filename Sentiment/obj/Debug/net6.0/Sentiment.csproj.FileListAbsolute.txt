@@ -1,0 +1,17 @@
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\bin\Debug\net6.0\Sentiment.exe
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\bin\Debug\net6.0\Sentiment.deps.json
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\bin\Debug\net6.0\Sentiment.runtimeconfig.json
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\bin\Debug\net6.0\Sentiment.dll
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\bin\Debug\net6.0\Sentiment.pdb
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\bin\Debug\net6.0\VaderSharp.dll
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.csproj.AssemblyReference.cache
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.AssemblyInfoInputs.cache
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.AssemblyInfo.cs
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.csproj.CoreCompileInputs.cache
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.csproj.CopyComplete
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.dll
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\refint\Sentiment.dll
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.pdb
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\Sentiment.genruntimeconfig.cache
+C:\Users\Michael Schlatter\source\repos\Sentiment\Sentiment\obj\Debug\net6.0\ref\Sentiment.dll
